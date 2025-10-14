@@ -1,4 +1,5 @@
 "use client";
+// Prueba de HU3 - Creación de curso
 
 import { useState } from "react";
 
